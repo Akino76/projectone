@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>Welcome to My Website</h1>
+        <h1>Timer application</h1>
         <nav>
           <ul>
             <li><a href="#home">Home</a></li>

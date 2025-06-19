@@ -1,3 +1,5 @@
+### I need to understand what it means to "save" my code and how do I visualize updates in the web browser after editing it in cursor.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

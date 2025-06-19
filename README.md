@@ -1,3 +1,4 @@
+### <<<<<<< HEAD
 ### I need to understand what it means to "save" my code and how do I visualize updates in the web browser after editing it in cursor.
 
 # Getting Started with Create React App
@@ -73,3 +74,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### make an app that helps you plan your day
 ### and if you mess up, it texts someone in your designed contacts list and updates them on your progress.
+=======
+# projectone
+### >>>>>>> 9d44d9675bef764e5a1715ef5c6e915bcbbc37b9
